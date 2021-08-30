@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicoloLazzaroni
-- 👀 I’m interested in pretty much everything, even if I'm in love with Debian and more generally with anything related to CyberSecurity.
-- 🌱 I’m currently learning Java and everything that comes to my mind. 
-- 📫 DM me if you need too, I am quite friendly.<br><br>
+- 👀 I'm in love with Debian and anything related to CyberSecurity.
+- 🌱 I’m currently learning Java and anything else that comes into my mind. 
+- 📫 DM me if you need too ask me any question.<br>
 
 📈 Just some stats about my work:
 
