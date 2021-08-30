@@ -6,3 +6,4 @@
 📈 Just some stats about my work:
 
 [![Nicolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoloLazzaroni&theme=dark)](https://github.com/NicoloLazzaroni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoloLazzaroni&theme=dark)](https://github.com/NicoloLazzaroni)
